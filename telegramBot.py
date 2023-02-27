@@ -4,7 +4,7 @@ import json
 # from binanceApi import get_price_btc
 from main import Arbitrage
 
-token = "6175000208:AAHLGjU7VoAohJuulRFhlesoQtWom8nbKDM"
+token = "6175000208:AAHLGjU7VoAohJuulesoQtWom8nM"
 telBot = telebot.TeleBot(token)
 
 
