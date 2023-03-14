@@ -2,7 +2,7 @@ import telebot
 import json
 from main import Arbitrage
 
-token = "6175000208:AAHLGjU7VoAohJuulRFhlesoQtWom8nbKDM"
+token = "6175000208:AAHLGjU7VoAohJuulesoQtWom8nM"
 telBot = telebot.TeleBot(token)
 
 
