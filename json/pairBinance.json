@@ -8,6 +8,7 @@
     "ADA/USDT",
     "XRP/USDT",
     "EOS/USDT",
+    "TUSD/USDT",
     "IOTA/USDT",
     "XLM/USDT",
     "ONT/USDT",
@@ -16,6 +17,7 @@
     "ICX/USDT",
     "NULS/USDT",
     "VET/USDT",
+    "USDC/USDT",
     "LINK/USDT",
     "WAVES/USDT",
     "ONG/USDT",
@@ -48,6 +50,7 @@
     "TOMO/USDT",
     "PERL/USDT",
     "DENT/USDT",
+    "KEY/USDT",
     "DOCK/USDT",
     "WAN/USDT",
     "FUN/USDT",
@@ -242,6 +245,7 @@
     "DYDX/USDT",
     "IDEX/USDT",
     "VIDT/USDT",
+    "USDP/USDT",
     "GALA/USDT",
     "ILV/USDT",
     "YGG/USDT",
@@ -333,5 +337,9 @@
     "GNS/USDT",
     "SYN/USDT",
     "VIB/USDT",
-    "SSV/USDT"
+    "SSV/USDT",
+    "LQTY/USDT",
+    "AMB/USDT",
+    "BETH/USDT",
+    "USTC/USDT"
 ]

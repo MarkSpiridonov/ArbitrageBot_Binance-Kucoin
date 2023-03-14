@@ -1,0 +1,1107 @@
+[
+    {
+        "id": "usd-coin",
+        "binance": "USDC",
+        "kucoin": "USDC"
+    },
+    {
+        "id": "binance-usd",
+        "binance": "BUSD",
+        "kucoin": "BUSD"
+    },
+    {
+        "id": "ethereum",
+        "binance": "ETH",
+        "kucoin": "ETH"
+    },
+    {
+        "id": "binancecoin",
+        "binance": "BNB",
+        "kucoin": "BNB"
+    },
+    {
+        "id": "paxos-standard",
+        "binance": "USDP",
+        "kucoin": "USDP"
+    },
+    {
+        "id": "solana",
+        "binance": "SOL",
+        "kucoin": "SOL"
+    },
+    {
+        "id": "ripple",
+        "binance": "XRP",
+        "kucoin": "XRP"
+    },
+    {
+        "id": "matic-network",
+        "binance": "MATIC",
+        "kucoin": "MATIC"
+    },
+    {
+        "id": "aptos",
+        "binance": "APT",
+        "kucoin": "APT"
+    },
+    {
+        "id": "litecoin",
+        "binance": "LTC",
+        "kucoin": "LTC"
+    },
+    {
+        "id": "filecoin",
+        "binance": "FIL",
+        "kucoin": "FIL"
+    },
+    {
+        "id": "optimism",
+        "binance": "OP",
+        "kucoin": "OP"
+    },
+    {
+        "id": "conflux-token",
+        "binance": "CFX",
+        "kucoin": "CFX"
+    },
+    {
+        "id": "dogecoin",
+        "binance": "DOGE",
+        "kucoin": "DOGE"
+    },
+    {
+        "id": "cardano",
+        "binance": "ADA",
+        "kucoin": "ADA"
+    },
+    {
+        "id": "avalanche-2",
+        "binance": "AVAX",
+        "kucoin": "AVAX"
+    },
+    {
+        "id": "tron",
+        "binance": "TRX",
+        "kucoin": "TRX"
+    },
+    {
+        "id": "lido-dao",
+        "binance": "LDO",
+        "kucoin": "LDO"
+    },
+    {
+        "id": "gala",
+        "binance": "GALA",
+        "kucoin": "GALAX"
+    },
+    {
+        "id": "polkadot",
+        "binance": "DOT",
+        "kucoin": "DOT"
+    },
+    {
+        "id": "shiba-inu",
+        "binance": "SHIB",
+        "kucoin": "SHIB"
+    },
+    {
+        "id": "chainlink",
+        "binance": "LINK",
+        "kucoin": "LINK"
+    },
+    {
+        "id": "fantom",
+        "binance": "FTM",
+        "kucoin": "FTM"
+    },
+    {
+        "id": "singularitynet",
+        "binance": "AGIX",
+        "kucoin": "AGIX"
+    },
+    {
+        "id": "dydx",
+        "binance": "DYDX",
+        "kucoin": "DYDX"
+    },
+    {
+        "id": "havven",
+        "binance": "SNX",
+        "kucoin": "SNX"
+    },
+    {
+        "id": "cosmos",
+        "binance": "ATOM",
+        "kucoin": "ATOM"
+    },
+    {
+        "id": "maker",
+        "binance": "MKR",
+        "kucoin": "MKR"
+    },
+    {
+        "id": "alchemy-pay",
+        "binance": "ACH",
+        "kucoin": "ACH"
+    },
+    {
+        "id": "kava",
+        "binance": "KAVA",
+        "kucoin": "KAVA"
+    },
+    {
+        "id": "ethereum-classic",
+        "binance": "ETC",
+        "kucoin": "ETC"
+    },
+    {
+        "id": "magic",
+        "binance": "MAGIC",
+        "kucoin": "MAGIC"
+    },
+    {
+        "id": "truefi",
+        "binance": "TRU",
+        "kucoin": "TRU"
+    },
+    {
+        "id": "the-graph",
+        "binance": "GRT",
+        "kucoin": "GRT"
+    },
+    {
+        "id": "fetch-ai",
+        "binance": "FET",
+        "kucoin": "FET"
+    },
+    {
+        "id": "the-sandbox",
+        "binance": "SAND",
+        "kucoin": "SAND"
+    },
+    {
+        "id": "blockstack",
+        "binance": "STX",
+        "kucoin": "STX"
+    },
+    {
+        "id": "apecoin",
+        "binance": "APE",
+        "kucoin": "APE"
+    },
+    {
+        "id": "mask-network",
+        "binance": "MASK",
+        "kucoin": "MASK"
+    },
+    {
+        "id": "aave",
+        "binance": "AAVE",
+        "kucoin": "AAVE"
+    },
+    {
+        "id": "ssv-network",
+        "binance": "SSV",
+        "kucoin": "SSV"
+    },
+    {
+        "id": "near",
+        "binance": "NEAR",
+        "kucoin": "NEAR"
+    },
+    {
+        "id": "eos",
+        "binance": "EOS",
+        "kucoin": "EOS"
+    },
+    {
+        "id": "monero",
+        "binance": "XMR",
+        "kucoin": "XMR"
+    },
+    {
+        "id": "curve-dao-token",
+        "binance": "CRV",
+        "kucoin": "CRV"
+    },
+    {
+        "id": "hashflow",
+        "binance": "HFT",
+        "kucoin": "HFT"
+    },
+    {
+        "id": "chiliz",
+        "binance": "CHZ",
+        "kucoin": "CHZ"
+    },
+    {
+        "id": "stepn",
+        "binance": "GMT",
+        "kucoin": "GMT"
+    },
+    {
+        "id": "zcash",
+        "binance": "ZEC",
+        "kucoin": "ZEC"
+    },
+    {
+        "id": "terra-luna",
+        "binance": "LUNC",
+        "kucoin": "LUNC"
+    },
+    {
+        "id": "bitcoin-cash",
+        "binance": "BCH",
+        "kucoin": "BCH"
+    },
+    {
+        "id": "yearn-finance",
+        "binance": "YFI",
+        "kucoin": "YFI"
+    },
+    {
+        "id": "mina-protocol",
+        "binance": "MINA",
+        "kucoin": "MINA"
+    },
+    {
+        "id": "render-token",
+        "binance": "RNDR",
+        "kucoin": "RNDR"
+    },
+    {
+        "id": "ethereum-name-service",
+        "binance": "ENS",
+        "kucoin": "ENS"
+    },
+    {
+        "id": "uniswap",
+        "binance": "UNI",
+        "kucoin": "UNI"
+    },
+    {
+        "id": "pax-gold",
+        "binance": "PAXG",
+        "kucoin": "PAXG"
+    },
+    {
+        "id": "ankr",
+        "binance": "ANKR",
+        "kucoin": "ANKR"
+    },
+    {
+        "id": "dash",
+        "binance": "DASH",
+        "kucoin": "DASH"
+    },
+    {
+        "id": "decentraland",
+        "binance": "MANA",
+        "kucoin": "MANA"
+    },
+    {
+        "id": "gmx",
+        "binance": "GMX",
+        "kucoin": "GMX"
+    },
+    {
+        "id": "oasis-network",
+        "binance": "ROSE",
+        "kucoin": "ROSE"
+    },
+    {
+        "id": "bitcoin-cash",
+        "binance": "BCH",
+        "kucoin": "BCH"
+    },
+    {
+        "id": "frax-share",
+        "binance": "FXS",
+        "kucoin": "FXS"
+    },
+    {
+        "id": "axie-infinity",
+        "binance": "AXS",
+        "kucoin": "AXS"
+    },
+    {
+        "id": "sushi",
+        "binance": "SUSHI",
+        "kucoin": "SUSHI"
+    },
+    {
+        "id": "cocos-bcx",
+        "binance": "COCOS",
+        "kucoin": "COCOS"
+    },
+    {
+        "id": "quant-network",
+        "binance": "QNT",
+        "kucoin": "QNT"
+    },
+    {
+        "id": "algorand",
+        "binance": "ALGO",
+        "kucoin": "ALGO"
+    },
+    {
+        "id": "arweave",
+        "binance": "AR",
+        "kucoin": "AR"
+    },
+    {
+        "id": "hedera-hashgraph",
+        "binance": "HBAR",
+        "kucoin": "HBAR"
+    },
+    {
+        "id": "ocean-protocol",
+        "binance": "OCEAN",
+        "kucoin": "OCEAN"
+    },
+    {
+        "id": "internet-computer",
+        "binance": "ICP",
+        "kucoin": "ICP"
+    },
+    {
+        "id": "neo",
+        "binance": "NEO",
+        "kucoin": "NEO"
+    },
+    {
+        "id": "highstreet",
+        "binance": "HIGH",
+        "kucoin": "HIGH"
+    },
+    {
+        "id": "constitutiondao",
+        "binance": "PEOPLE",
+        "kucoin": "PEOPLE"
+    },
+    {
+        "id": "thorchain",
+        "binance": "RUNE",
+        "kucoin": "RUNE"
+    },
+    {
+        "id": "jasmycoin",
+        "binance": "JASMY",
+        "kucoin": "JASMY"
+    },
+    {
+        "id": "elrond-erd-2",
+        "binance": "EGLD",
+        "kucoin": "EGLD"
+    },
+    {
+        "id": "loopring",
+        "binance": "LRC",
+        "kucoin": "LRC"
+    },
+    {
+        "id": "immutable-x",
+        "binance": "IMX",
+        "kucoin": "IMX"
+    },
+    {
+        "id": "klay-token",
+        "binance": "KLAY",
+        "kucoin": "KLAY"
+    },
+    {
+        "id": "vechain",
+        "binance": "VET",
+        "kucoin": "VET"
+    },
+    {
+        "id": "trust-wallet-token",
+        "binance": "TWT",
+        "kucoin": "TWT"
+    },
+    {
+        "id": "pancakeswap-token",
+        "binance": "CAKE",
+        "kucoin": "CAKE"
+    },
+    {
+        "id": "dusk-network",
+        "binance": "DUSK",
+        "kucoin": "DUSK"
+    },
+    {
+        "id": "automata",
+        "binance": "ATA",
+        "kucoin": "ATA"
+    },
+    {
+        "id": "unifi-protocol-dao",
+        "binance": "UNFI",
+        "kucoin": "UNFI"
+    },
+    {
+        "id": "flow",
+        "binance": "FLOW",
+        "kucoin": "FLOW"
+    },
+    {
+        "id": "stellar",
+        "binance": "XLM",
+        "kucoin": "XLM"
+    },
+    {
+        "id": "woo-network",
+        "binance": "WOO",
+        "kucoin": "WOO"
+    },
+    {
+        "id": "terra-luna-2",
+        "binance": "LUNA",
+        "kucoin": "LUNA"
+    },
+    {
+        "id": "audius",
+        "binance": "AUDIO",
+        "kucoin": "AUDIO"
+    },
+    {
+        "id": "dodo",
+        "binance": "DODO",
+        "kucoin": "DODO"
+    },
+    {
+        "id": "theta-token",
+        "binance": "THETA",
+        "kucoin": "THETA"
+    },
+    {
+        "id": "waves",
+        "binance": "WAVES",
+        "kucoin": "WAVES"
+    },
+    {
+        "id": "zilliqa",
+        "binance": "ZIL",
+        "kucoin": "ZIL"
+    },
+    {
+        "id": "project-galaxy",
+        "binance": "GAL",
+        "kucoin": "GAL"
+    },
+    {
+        "id": "celo",
+        "binance": "CELO",
+        "kucoin": "CELO"
+    },
+    {
+        "id": "threshold-network-token",
+        "binance": "T",
+        "kucoin": "T"
+    },
+    {
+        "id": "enjincoin",
+        "binance": "ENJ",
+        "kucoin": "ENJ"
+    },
+    {
+        "id": "harmony",
+        "binance": "ONE",
+        "kucoin": "ONE"
+    },
+    {
+        "id": "1inch",
+        "binance": "1INCH",
+        "kucoin": "1INCH"
+    },
+    {
+        "id": "republic-protocol",
+        "binance": "REN",
+        "kucoin": "REN"
+    },
+    {
+        "id": "litentry",
+        "binance": "LIT",
+        "kucoin": "LIT"
+    },
+    {
+        "id": "skale",
+        "binance": "SKL",
+        "kucoin": "SKL"
+    },
+    {
+        "id": "skale",
+        "binance": "SKL",
+        "kucoin": "SKL"
+    },
+    {
+        "id": "arpa",
+        "binance": "ARPA",
+        "kucoin": "ARPA"
+    },
+    {
+        "id": "adventure-gold",
+        "binance": "AGLD",
+        "kucoin": "AGLD"
+    },
+    {
+        "id": "kyber-network-crystal",
+        "binance": "KNC",
+        "kucoin": "KNC"
+    },
+    {
+        "id": "tezos",
+        "binance": "XTZ",
+        "kucoin": "XTZ"
+    },
+    {
+        "id": "coti",
+        "binance": "COTI",
+        "kucoin": "COTI"
+    },
+    {
+        "id": "coin98",
+        "binance": "C98",
+        "kucoin": "C98"
+    },
+    {
+        "id": "perpetual-protocol",
+        "binance": "PERP",
+        "kucoin": "PERP"
+    },
+    {
+        "id": "iexec-rlc",
+        "binance": "RLC",
+        "kucoin": "RLC"
+    },
+    {
+        "id": "my-neighbor-alice",
+        "binance": "ALICE",
+        "kucoin": "ALICE"
+    },
+    {
+        "id": "astar",
+        "binance": "ASTR",
+        "kucoin": "ASTR"
+    },
+    {
+        "id": "reserve-rights-token",
+        "binance": "RSR",
+        "kucoin": "RSR"
+    },
+    {
+        "id": "convex-finance",
+        "binance": "CVX",
+        "kucoin": "CVX"
+    },
+    {
+        "id": "iostoken",
+        "binance": "IOST",
+        "kucoin": "IOST"
+    },
+    {
+        "id": "chromaway",
+        "binance": "CHR",
+        "kucoin": "CHR"
+    },
+    {
+        "id": "zencash",
+        "binance": "ZEN",
+        "kucoin": "ZEN"
+    },
+    {
+        "id": "livepeer",
+        "binance": "LPT",
+        "kucoin": "LPT"
+    },
+    {
+        "id": "amp-token",
+        "binance": "AMP",
+        "kucoin": "AMP"
+    },
+    {
+        "id": "compound-governance-token",
+        "binance": "COMP",
+        "kucoin": "COMP"
+    },
+    {
+        "id": "basic-attention-token",
+        "binance": "BAT",
+        "kucoin": "BAT"
+    },
+    {
+        "id": "celer-network",
+        "binance": "CELR",
+        "kucoin": "CELR"
+    },
+    {
+        "id": "bonfida",
+        "binance": "FIDA",
+        "kucoin": "FIDA"
+    },
+    {
+        "id": "iotex",
+        "binance": "IOTX",
+        "kucoin": "IOTX"
+    },
+    {
+        "id": "reef",
+        "binance": "REEF",
+        "kucoin": "REEF"
+    },
+    {
+        "id": "origin-protocol",
+        "binance": "OGN",
+        "kucoin": "OGN"
+    },
+    {
+        "id": "metal",
+        "binance": "MTL",
+        "kucoin": "MTL"
+    },
+    {
+        "id": "nervos-network",
+        "binance": "CKB",
+        "kucoin": "CKB"
+    },
+    {
+        "id": "bluzelle",
+        "binance": "BLZ",
+        "kucoin": "BLZ"
+    },
+    {
+        "id": "kusama",
+        "binance": "KSM",
+        "kucoin": "KSM"
+    },
+    {
+        "id": "barnbridge",
+        "binance": "BOND",
+        "kucoin": "BOND"
+    },
+    {
+        "id": "linear",
+        "binance": "LINA",
+        "kucoin": "LINA"
+    },
+    {
+        "id": "ethernity-chain",
+        "binance": "ERN",
+        "kucoin": "ERN"
+    },
+    {
+        "id": "burger-swap",
+        "binance": "BURGER",
+        "kucoin": "BURGER"
+    },
+    {
+        "id": "ravencoin",
+        "binance": "RVN",
+        "kucoin": "RVN"
+    },
+    {
+        "id": "illuvium",
+        "binance": "ILV",
+        "kucoin": "ILV"
+    },
+    {
+        "id": "kadena",
+        "binance": "KDA",
+        "kucoin": "KDA"
+    },
+    {
+        "id": "mines-of-dalarnia",
+        "binance": "DAR",
+        "kucoin": "DAR"
+    },
+    {
+        "id": "api3",
+        "binance": "API3",
+        "kucoin": "API3"
+    },
+    {
+        "id": "alpha-finance",
+        "binance": "ALPHA",
+        "kucoin": "ALPHA"
+    },
+    {
+        "id": "smooth-love-potion",
+        "binance": "SLP",
+        "kucoin": "SLP"
+    },
+    {
+        "id": "akropolis",
+        "binance": "AKRO",
+        "kucoin": "AKRO"
+    },
+    {
+        "id": "band-protocol",
+        "binance": "BAND",
+        "kucoin": "BAND"
+    },
+    {
+        "id": "balancer",
+        "binance": "BAL",
+        "kucoin": "BAL"
+    },
+    {
+        "id": "safepal",
+        "binance": "SFP",
+        "kucoin": "SFP"
+    },
+    {
+        "id": "tellor",
+        "binance": "TRB",
+        "kucoin": "TRB"
+    },
+    {
+        "id": "yield-guild-games",
+        "binance": "YGG",
+        "kucoin": "YGG"
+    },
+    {
+        "id": "icon",
+        "binance": "ICX",
+        "kucoin": "ICX"
+    },
+    {
+        "id": "cartesi",
+        "binance": "CTSI",
+        "kucoin": "CTSI"
+    },
+    {
+        "id": "iota",
+        "binance": "IOTA",
+        "kucoin": "IOTA"
+    },
+    {
+        "id": "omisego",
+        "binance": "OMG",
+        "kucoin": "OMG"
+    },
+    {
+        "id": "gains-network",
+        "binance": "GNS",
+        "kucoin": "GNS"
+    },
+    {
+        "id": "vidt-dao",
+        "binance": "VIDT",
+        "kucoin": "VIDT"
+    },
+    {
+        "id": "gitcoin",
+        "binance": "GTC",
+        "kucoin": "GTC"
+    },
+    {
+        "id": "osmosis",
+        "binance": "OSMO",
+        "kucoin": "OSMO"
+    },
+    {
+        "id": "storj",
+        "binance": "STORJ",
+        "kucoin": "STORJ"
+    },
+    {
+        "id": "vulcan-forged",
+        "binance": "PYR",
+        "kucoin": "PYR"
+    },
+    {
+        "id": "synapse-2",
+        "binance": "SYN",
+        "kucoin": "SYN"
+    },
+    {
+        "id": "alien-worlds",
+        "binance": "TLM",
+        "kucoin": "TLM"
+    },
+    {
+        "id": "concierge-io",
+        "binance": "AVA",
+        "kucoin": "AVA"
+    },
+    {
+        "id": "zelcash",
+        "binance": "FLUX",
+        "kucoin": "FLUX"
+    },
+    {
+        "id": "moonbeam",
+        "binance": "GLMR",
+        "kucoin": "GLMR"
+    },
+    {
+        "id": "alpine-f1-team-fan-token",
+        "binance": "ALPINE",
+        "kucoin": "ALPINE"
+    },
+    {
+        "id": "biswap",
+        "binance": "BSW",
+        "kucoin": "BSW"
+    },
+    {
+        "id": "aragon",
+        "binance": "ANT",
+        "kucoin": "ANT"
+    },
+    {
+        "id": "kava-lend",
+        "binance": "HARD",
+        "kucoin": "HARD"
+    },
+    {
+        "id": "clover-finance",
+        "binance": "CLV",
+        "kucoin": "CLV"
+    },
+    {
+        "id": "ontology",
+        "binance": "ONT",
+        "kucoin": "ONT"
+    },
+    {
+        "id": "pnetwork",
+        "binance": "PNT",
+        "kucoin": "PNT"
+    },
+    {
+        "id": "streamr",
+        "binance": "DATA",
+        "kucoin": "DATA"
+    },
+    {
+        "id": "benqi",
+        "binance": "QI",
+        "kucoin": "QI"
+    },
+    {
+        "id": "voxies",
+        "binance": "VOXEL",
+        "kucoin": "VOXEL"
+    },
+    {
+        "id": "league-of-kingdoms",
+        "binance": "LOKA",
+        "kucoin": "LOKA"
+    },
+    {
+        "id": "nem",
+        "binance": "XEM",
+        "kucoin": "XEM"
+    },
+    {
+        "id": "the-virtua-kolect",
+        "binance": "TVK",
+        "kucoin": "TVK"
+    },
+    {
+        "id": "numeraire",
+        "binance": "NMR",
+        "kucoin": "NMR"
+    },
+    {
+        "id": "moonriver",
+        "binance": "MOVR",
+        "kucoin": "MOVR"
+    },
+    {
+        "id": "nkn",
+        "binance": "NKN",
+        "kucoin": "NKN"
+    },
+    {
+        "id": "rocket-pool",
+        "binance": "RPL",
+        "kucoin": "RPL"
+    },
+    {
+        "id": "orion-protocol",
+        "binance": "ORN",
+        "kucoin": "ORN"
+    },
+    {
+        "id": "ecash",
+        "binance": "XEC",
+        "kucoin": "XEC"
+    },
+    {
+        "id": "mantra-dao",
+        "binance": "OM",
+        "kucoin": "OM"
+    },
+    {
+        "id": "ellipsis-x",
+        "binance": "EPX",
+        "kucoin": "EPX"
+    },
+    {
+        "id": "adex",
+        "binance": "ADX",
+        "kucoin": "ADX"
+    },
+    {
+        "id": "pha",
+        "binance": "PHA",
+        "kucoin": "PHA"
+    },
+    {
+        "id": "digibyte",
+        "binance": "DGB",
+        "kucoin": "DGB"
+    },
+    {
+        "id": "wazirx",
+        "binance": "WRX",
+        "kucoin": "WRX"
+    },
+    {
+        "id": "orchid-protocol",
+        "binance": "OXT",
+        "kucoin": "OXT"
+    },
+    {
+        "id": "just",
+        "binance": "JST",
+        "kucoin": "JST"
+    },
+    {
+        "id": "lto-network",
+        "binance": "LTO",
+        "kucoin": "LTO"
+    },
+    {
+        "id": "biconomy",
+        "binance": "BICO",
+        "kucoin": "BICO"
+    },
+    {
+        "id": "dia-data",
+        "binance": "DIA",
+        "kucoin": "DIA"
+    },
+    {
+        "id": "superfarm",
+        "binance": "SUPER",
+        "kucoin": "SUPER"
+    },
+    {
+        "id": "marlin",
+        "binance": "POND",
+        "kucoin": "POND"
+    },
+    {
+        "id": "wink",
+        "binance": "WIN",
+        "kucoin": "WIN"
+    },
+    {
+        "id": "wax",
+        "binance": "WAXP",
+        "kucoin": "WAX"
+    },
+    {
+        "id": "nano",
+        "binance": "XNO",
+        "kucoin": "XNO"
+    },
+    {
+        "id": "amber",
+        "binance": "AMB",
+        "kucoin": "AMB"
+    },
+    {
+        "id": "theta-fuel",
+        "binance": "TFUEL",
+        "kucoin": "TFUEL"
+    },
+    {
+        "id": "uma",
+        "binance": "UMA",
+        "kucoin": "UMA"
+    },
+    {
+        "id": "terrausd",
+        "binance": "USTC",
+        "kucoin": "USTC"
+    },
+    {
+        "id": "secret",
+        "binance": "SCRT",
+        "kucoin": "SCRT"
+    },
+    {
+        "id": "request-network",
+        "binance": "REQ",
+        "kucoin": "REQ"
+    },
+    {
+        "id": "frontier-token",
+        "binance": "FRONT",
+        "kucoin": "FRONT"
+    },
+    {
+        "id": "melon",
+        "binance": "MLN",
+        "kucoin": "MLN"
+    },
+    {
+        "id": "dexe",
+        "binance": "DEXE",
+        "kucoin": "DEXE"
+    },
+    {
+        "id": "pundi-x-2",
+        "binance": "PUNDIX",
+        "kucoin": "PUNDIX"
+    },
+    {
+        "id": "moviebloc",
+        "binance": "MBL",
+        "kucoin": "MBL"
+    },
+    {
+        "id": "polkastarter",
+        "binance": "POLS",
+        "kucoin": "POLS"
+    },
+    {
+        "id": "ampleforth-governance-token",
+        "binance": "FORTH",
+        "kucoin": "FORTH"
+    },
+    {
+        "id": "sun-token",
+        "binance": "SUN",
+        "kucoin": "SUN"
+    },
+    {
+        "id": "komodo",
+        "binance": "KMD",
+        "kucoin": "KMD"
+    },
+    {
+        "id": "bitcoin",
+        "binance": "BTC",
+        "kucoin": "BTC"
+    },
+    {
+        "id": "bittorrent",
+        "binance": "BTTC",
+        "kucoin": "BTT"
+    },
+    {
+        "id": "dego-finance",
+        "binance": "DEGO",
+        "kucoin": "DEGO"
+    },
+    {
+        "id": "quick",
+        "binance": "QUICK",
+        "kucoin": "QUICK"
+    }
+]

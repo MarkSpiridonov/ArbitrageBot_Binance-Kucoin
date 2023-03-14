@@ -1,10 +1,16 @@
 import requests
 import json
+import hashlib
+import hmac
+import time
+import os
 
 
-# упаковали всё в класс
 class BinanceClient:
-    # Добавили метод для получение всех торгуемых пар
+    def __init__(self) -> None:
+        self.apiKey = os.getenv("api_key_binance")
+        self.secretKey = os.getenv("api_secret_binance")
+
     @staticmethod
     def get_all_pair():
         url = "https://api.binance.com/api/v3/exchangeInfo"
@@ -46,5 +52,25 @@ class BinanceClient:
         except:
             print(pair)
 
+    def check_deposit(self, coin):
+        endpoint = "/sapi/v1/capital/config/getall"
+        params = {"timestamp": int(time.time() * 1000), "recvWindow": 5000}
 
-BinanceClient.get_all_pair()
+        query_string = "&".join([f"{k}={v}" for k, v in params.items()])
+        signature = hmac.new(
+            self.secretKey.encode(), query_string.encode(), hashlib.sha256
+        ).hexdigest()
+
+        params["signature"] = signature
+
+        headers = {"X-MBX-APIKEY": self.apiKey}
+
+        response = requests.get(
+            f"https://api.binance.com{endpoint}", params=params, headers=headers
+        )
+
+        for item in response.json():
+            if item["coin"] == coin:
+                return item["depositAllEnable"]
+
+
