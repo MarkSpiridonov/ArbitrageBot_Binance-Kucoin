@@ -1,14 +1,19 @@
 import telebot
 import json
 from main import Arbitrage
+from dotenv import load_dotenv
+import os
 
-token = "6175000208:AAHLGjU7VoAohJuulesoQtWom8nM"
+load_dotenv()  # подгрузить env
+
+token = os.getenv("api_telegram_token")
 telBot = telebot.TeleBot(token)
 
 
 @telBot.message_handler(commands=["start"])
 def start(message):
     telBot.send_message(message.chat.id, "Всё работает!")
+
 
 @telBot.message_handler(commands=["run_check"])
 def check_btc(message):

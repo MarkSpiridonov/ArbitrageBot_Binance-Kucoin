@@ -4,9 +4,6 @@ import coingeckoApi
 from time import sleep
 import json
 import settings as sett
-from dotenv import load_dotenv
-
-load_dotenv()  # подгрузить env
 
 
 class Arbitrage:
