@@ -7,6 +7,7 @@ import os
 
 
 class BinanceClient:
+    
     def __init__(self) -> None:
         self.apiKey = os.getenv("api_key_binance")
         self.secretKey = os.getenv("api_secret_binance")
@@ -69,6 +70,11 @@ class BinanceClient:
             f"https://api.binance.com{endpoint}", params=params, headers=headers
         )
 
-        for item in response.json():
-            if item["coin"] == coin:
-                return item["depositAllEnable"]
+        if (response.status_code == 200):
+            for item in response.json():
+                if item["coin"] == coin:
+                    return item["depositAllEnable"]
+        else:
+            raise (Exception(response.text))
+
+

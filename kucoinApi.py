@@ -113,4 +113,6 @@ class KucoinClient:
             "Content-Type": "application/json",
         }
         response = requests.request("post", url, headers=headers, data=data_json)
+        if (response.status_code == 401):
+            raise Exception(response.text)
         return response.json()["code"] != "260200"
