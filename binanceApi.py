@@ -43,8 +43,8 @@ class BinanceClient:
             if response.status_code == 200:
                 data = response.json()
                 orderBook["check"] = True
-                orderBook["buy"] = data["bids"][0][0]
-                orderBook["sell"] = data["asks"][0][0]
+                orderBook["bid"] = data["bids"][0][0]
+                orderBook["ask"] = data["asks"][0][0]
             else:
                 orderBook["check"] = False
 
@@ -72,5 +72,3 @@ class BinanceClient:
         for item in response.json():
             if item["coin"] == coin:
                 return item["depositAllEnable"]
-
-

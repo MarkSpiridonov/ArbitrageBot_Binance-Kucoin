@@ -45,8 +45,8 @@ class KucoinClient:
             if response.status_code == 200:
                 data = response.json()
                 orderBook["check"] = True
-                orderBook["buy"] = data["data"]["bids"][0][0]
-                orderBook["sell"] = data["data"]["asks"][0][0]
+                orderBook["bid"] = data["data"]["bids"][0][0]
+                orderBook["ask"] = data["data"]["asks"][0][0]
             else:
                 orderBook["check"] = False
         except Exception as exc:

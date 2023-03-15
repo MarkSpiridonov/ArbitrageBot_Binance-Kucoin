@@ -555,11 +555,6 @@
         "kucoin": "XTZ"
     },
     {
-        "id": "coti",
-        "binance": "COTI",
-        "kucoin": "COTI"
-    },
-    {
         "id": "coin98",
         "binance": "C98",
         "kucoin": "C98"

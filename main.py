@@ -22,20 +22,20 @@ class Arbitrage:
                 priceKucoin = self.kucoinClient.get_order_book_kucoin(pair=pair)
 
                 if priceBinance["check"] and priceKucoin["check"]:
-                    buy = float(priceKucoin["buy"])
-                    sell = float(priceBinance["sell"])
-                    spread = (buy / sell - 1) * 100
+                    buy = float(priceKucoin["ask"])
+                    sell = float(priceBinance["bid"])
+                    spread = (sell / buy - 1) * 100
 
                     if spread > sett.SPREAD and self.check_deposit(coin):
-                        message = f"Спред: {round(spread, 2)}%\n{coin['binance']}\nBinance цена: {priceBinance['sell']}\nКукоин цена: {priceKucoin['sell']}"
+                        message = f"Спред: {round(spread, 2)}%\n{coin['binance']}\nКукоин цена: {buy}\nBinance цена: {sell}"
                         telBot.send_message(chatId, message)
 
-                    buy = float(priceBinance["buy"])
-                    sell = float(priceKucoin["sell"])
-                    spread = (buy / sell - 1) * 100
+                    buy = float(priceBinance["ask"])
+                    sell = float(priceKucoin["bid"])
+                    spread = (sell / buy - 1) * 100
 
                     if spread > sett.SPREAD and self.check_deposit(coin):
-                        message = f"Спред: {round(spread, 2)}%\n{coin['binance']}\nКукоин цена: {priceKucoin['sell']}\nBinance цена: {priceBinance['sell']}"
+                        message = f"Спред: {round(spread, 2)}%\n{coin['binance']}\nBinance цена: {buy}\nКукоин цена: {sell}"
                         telBot.send_message(chatId, message)
 
     def check_deposit(self, coin: dict):
@@ -47,7 +47,7 @@ class Arbitrage:
 
             if coin["binance"] not in ignoreList:
                 ignoreList.append(coin["binance"])
-                
+
                 with open("json/ignoreCoin.json", "w") as f:
                     json.dump(ignoreList, f)
 

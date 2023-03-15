@@ -1,1 +1,1 @@
-SPREAD = 0.3
+SPREAD = 1
